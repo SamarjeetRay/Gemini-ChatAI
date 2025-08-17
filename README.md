@@ -38,4 +38,4 @@ This project introduces a React-based web application that functions as a clone 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/
+   https://github.com/SamarjeetRay/Gemini-ChatAI.git
